@@ -2,6 +2,7 @@
 
 Pure x86_64 assembly **metamorphic engine** demo. Outputs “Hello, world!” while the underlying binary changes on each run.
 
+![metamorphicEngine Screenshot](screenshot.png)
 ## Overview
 
 This project demonstrates a simple metamorphic engine written entirely in NASM x86_64 assembly. Each execution produces identical output (`Hello, world!`) but modifies its machine code using techniques like:
