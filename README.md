@@ -21,4 +21,5 @@ Build and run:
 
 nasm -f elf64 metamorphicEngine.asm -o metamorphicEngine.o
 ld metamorphicEngine.o -o metamorphicEngine
+
 ./metamorphicEngine
